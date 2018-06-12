@@ -1,0 +1,29 @@
+{
+  "name": "expressproject",
+  "version": "1.0.0",
+  "description": "Practice project to learn how to use Express",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunderblarg/expressproject.git"
+  },
+  "keywords": [
+    "Express",
+    "practice"
+  ],
+  "author": "Joshua Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thunderblarg/expressproject/issues"
+  },
+  "homepage": "https://github.com/Thunderblarg/expressproject#readme"
+}
